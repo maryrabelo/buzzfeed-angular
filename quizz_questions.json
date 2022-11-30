@@ -1,0 +1,55 @@
+{
+    "title":"Quão amorzinho você é?",
+    "questions":[
+      {
+        "id":1,
+        "question": "Marque as coisas que você AMA MUITO. ❤️",
+        "options":[
+          {"id": 1, "name":"Bebês", "alias":"A"},
+          {"id": 2, "name":"O gatinho do Shrek", "alias":"B"},
+          {"id": 3, "name":"Cupcakes", "alias":"A"},
+          {"id": 4, "name":"Abraços", "alias":"B"},
+          {"id": 5, "name":"Carinhos sem ter fim", "alias":"A"}
+        ]
+      },
+      {
+        "id":2,
+        "question": "Quem você salvaria primeiro ?",
+        "options":[
+          {"id": 1, "name":"Crianças", "alias":"A"},
+          {"id": 2, "name":"Idosos", "alias":"A"},
+          {"id": 3, "name":"Filhotinhos", "alias":"B"}
+        ]
+      },
+      {
+        "id":3,
+        "question": "Qual seu bichinho favorito?",
+        "options":[
+          {"id": 1, "name":"Gatos", "alias":"B"},
+          {"id": 2, "name":"Cachorros", "alias":"A"},
+          {"id": 3, "name":"Bichos-preguiça", "alias":"A"},
+          {"id": 4, "name":"Coalas", "alias":"B"}
+        ]
+      },
+      {
+        "id":4,
+        "question": "Qual seu doce favorito?",
+        "options":[
+          {"id": 1, "name":"Brigadeiro", "alias":"A"},
+          {"id": 2, "name":"Beijinhos", "alias":"B"}
+        ]
+      },
+      {
+        "id":5,
+        "question": "Qual o seu apelido de fofura?",
+        "options":[
+          {"id": 1, "name":"Palmirinha", "alias":"A"},
+          {"id": 2, "name":"Toddynho", "alias":"B"}
+        ]
+      }
+    ],
+    "results":{
+      "A": "Não que você seja um MONSTRO, mas você não é tão amorzinho assim, né? Vamos combinar. Mas eu tenho certeza de que você é uma pessoa maravilhosa!",
+      "B": "VOCÊ É A PESSOA MAIS AMORZINHO DO MUNDO. É MUITA FOFURA, EU QUERO APERTAR VOCÊ E COLOCAR DENTRO DE UMA CAIXINHA BEM PEQUENININHA!!!!!"
+    }
+  }
